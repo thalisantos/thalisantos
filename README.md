@@ -1,8 +1,8 @@
 
 ### 👋 Hi there
 [![Twitter Badge](https://img.shields.io/badge/-@thalisantos-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Thalita%20Santos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariathalitasantos/)](https://www.linkedin.com/in/mariathalitasantos/) 
+[![Gmail Badge](https://img.shields.io/badge/-mariathalitasantos00@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mariathalitasantos00@gmail.com)](mailto:mariathalitasantos00@gmail.com)
 
   
 My name is Thalita and i'm Front End Developer
