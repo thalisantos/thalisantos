@@ -5,8 +5,7 @@
 Sou desenvolvedora de software com 5 anos de experiência, focada em criar experiências digitais de alta performance e acessíveis. Atualmente, trabalho na modernização de sistemas complexos e no desenvolvimento de soluções multiplataforma (Web, Mobile e Totens).
 
 - 🚀 Especialista no ecossistema **React, Next.js e React Native**.
-- 🗣️ Fluente em Português e com domínio avançado de **Espanhol e Inglês**.
-- ✍️ No tempo livre, estou escrevendo um livro de fantasia inspirado na mitologia latino-americana.
+- 🗣️Domínio avançado de **Espanhol e Inglês**.
 
 ---
 
