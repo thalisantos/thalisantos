@@ -1,6 +1,5 @@
 
 ### Thalita Nascimento
-[![Linkedin Badge](https://img.shields.io/badge/-Thalita%20Santos-5e005e?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariathalitasantos/)](https://www.linkedin.com/in/mariathalitasantos/) 
 
 👋 Hi There
 
